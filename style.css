@@ -1,0 +1,46 @@
+body {
+  width: 100%;
+  background-image: url(https://i.pinimg.com/736x/23/84/67/2384671371dc5a56456c0d3c1649aefb--alice-in-wonderland-tattoo-cheshire-cat-alice-in-wonderland-paintings.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+	font-family: "Indie Flower", sans-serif;
+	text-align: center;
+	font-size: 1.125rem;
+	line-height: 1.5;
+	transition: all 725ms ease-in-out;
+}
+h1 {
+	font-size: 400%;
+	font-weight: bolder;
+	margin-bottom: 1rem;
+
+}
+
+h2{
+
+  font-size: 200%;
+}
+
+
+#OpenMe {
+  border: 1px solid black;
+  display: inline-block;
+  padding: 30px;
+  border-radius: 50px;
+  background-color: #F0F8FF;
+
+}
+
+a p {
+  color: black;
+}
+
+a p:visited{
+  color: red;
+}
+
+.center {
+    text-align: center;
+    margin-top: 300px;
+}
